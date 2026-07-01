@@ -80,16 +80,6 @@ Beyond software development, I actively contribute to student organizations, col
 
 ---
 
-# 🏆 My GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MarktinTHB&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 📊 My Contribution Chart
 
 <p align="center">
