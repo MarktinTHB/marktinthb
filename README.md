@@ -40,17 +40,6 @@ Beyond software development, I actively contribute to student organizations, col
 
 ---
 
-# 🚀 Currently Working On
-
-- 🎮 Minecraft Paper plugins
-- 🤖 Discord bots with Python
-- 🌐 Full-stack web applications
-- ☁ Learning AWS Cloud
-- 📡 Networking & Infrastructure
-- 💻 Software Engineering best practices
-
----
-
 # 🛠 Tech Stack
 
 ### Languages
@@ -81,108 +70,7 @@ Beyond software development, I actively contribute to student organizations, col
 
 ---
 
-# 🌟 Featured Projects
-
-## 🤖 Bugtong Bot
-
-Official Discord bot powering **BugtongCryptic**, designed for community engagement, automated moderation, server utilities, and scalable Discord automation.
-
-**Tech**
-- Python
-- Discord.py
-- API Integration
-
----
-
-## 🤖 CNC Neebot
-
-Official Discord bot developed for the **Create & Conquer 2026 Hackathon**.
-
-Features moderation, event management, automated utilities, and server administration tools.
-
----
-
-## 🐦 Don't Touch My Birdie!
-
-An AI-powered biodiversity platform developed during the **Create & Conquer 2026 Hackathon** that assists in Philippine bird identification through image recognition and geospatial mapping.
-
-Features:
-
-- AI Bird Identification
-- Biodiversity Monitoring
-- Interactive Mapping
-- Environmental Awareness
-
----
-
-## 🏫 Reservelt
-
-A modern reservation management system for educational institutions.
-
-Features:
-
-- Facility Reservation
-- Venue Scheduling
-- Authentication
-- Administrative Dashboard
-- Modern Web Interface
-
----
-
-## 🎭 TotallyNick
-
-A highly customizable PaperMC nickname plugin featuring
-
-- Rank Integration
-- PlaceholderAPI
-- GUI Menus
-- Chat Formatting
-- Tablist Customization
-- Random Nicknames
-
----
-
-# 🏢 Experience
-
-### 🏛 Computer Engineering Organization — FEU Institute of Technology
-
-**Treasurer**
-
-Managing organizational budgeting, financial operations, logistics, and resource allocation while ensuring accountability and efficient project execution.
-
-**Junior Officer — Secretariat**
-
-Supported documentation management, event organization, and internal operations for the organization's activities.
-
----
-
-### 🎮 Mineplex LLC
-
-**Quality Assurance Specialist**
-
-Responsible for evaluating gameplay quality, identifying issues, balancing mechanics, collecting player feedback, and improving the overall gameplay experience.
-
----
-
-### 🎮 CraftiGames
-
-**Plugin Configuration Specialist**
-
-Configured, maintained, and optimized Minecraft server plugins while ensuring stable gameplay systems and efficient server operations.
-
----
-
-# 🎓 Education
-
-**Bachelor of Science in Computer Engineering**
-
-FEU Institute of Technology
-
-2023 – Present
-
----
-
-# 🏅 Certifications
+# 🏅 My Licenses and Certifications
 
 - ☁ AWS Academy Graduate — Cloud Foundations
 - 🌐 Cisco CCNA: Introduction to Networks
@@ -192,25 +80,7 @@ FEU Institute of Technology
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MarktinTHB&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarktinTHB&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarktinTHB&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
+# 🏆 My GitHub Trophies
 
 <p align="center">
 
@@ -220,7 +90,7 @@ FEU Institute of Technology
 
 ---
 
-# 📊 Contribution Graph
+# 📊 My Contribution Chart
 
 <p align="center">
 
@@ -230,47 +100,7 @@ FEU Institute of Technology
 
 ---
 
-# 🐍 Contribution Snake
-
-> Requires a GitHub Action.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/MarktinTHB/MarktinTHB/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎧 Currently Listening
-
-<p align="center">
-
-<a href="https://open.spotify.com/user/540cu2bpmz60ecuobrdy4jppr">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=540cu2bpmz60ecuobrdy4jppr&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
-</a>
-
-</p>
-
----
-
-# 💬 Discord
-
-<p align="center">
-
-<a href="https://discord.com/users/265445234379325440">
-
-<img src="https://lanyard.cnrad.dev/api/265445234379325440?theme=dark&animated=true&showDisplayName=true&hideTimestamp=true&borderRadius=20px"/>
-
-</a>
-
-</p>
-
----
-
-# 🌐 Connect With Me
+# 🌐 Let's Connect!
 
 <p align="center">
 
@@ -282,7 +112,7 @@ FEU Institute of Technology
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:contact.marktinthb@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -292,7 +122,7 @@ FEU Institute of Technology
 
 <div align="center">
 
-### 💙 Thanks for stopping by!
+### 💙 Thank you for stopping by on my profile!
 
 *"Great software isn't just built—it evolves through collaboration, thoughtful design, and continuous improvement."*
 
