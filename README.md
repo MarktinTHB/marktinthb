@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Sean Martin Tabelisma
+# Hi, I'm Sean Martin Tabelisma!👋 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;Backend+Developer;Minecraft+Plugin+Developer;Discord+Bot+Developer;Game+Designer+%26+QA+Specialist" />
 
@@ -24,7 +24,7 @@
 
 </p>
 
-> *Building software, game systems, and automation that create better experiences for communities.*
+*Building software, game systems, and automation that create better experiences for communities.*
 
 </div>
 
